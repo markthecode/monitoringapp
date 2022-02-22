@@ -1,6 +1,8 @@
 # monitoringapp
 A simple PHP website monitoring app for returning response status codes
 
+![Home Page View](imgs/monitoringapp_home.png)
+
 This was part of a cloud module for university to monitor docker instances of a running service.
 
 
@@ -11,13 +13,6 @@ This was part of a cloud module for university to monitor docker instances of a 
 * [ ]  Web Response Time - PING
 * [ ]  Alert Down Time/Up Time
 * [ ]  Run Service Tests
-
-(GQM)
-
-Goals => Questions => Actual Metric
-
-"I'm Alive" => "How do I know I'm Alive?" => HTTP Status 200
-
 
 
 Status Codes to consider
