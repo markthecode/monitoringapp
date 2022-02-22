@@ -1,0 +1,168 @@
+
+html {
+  background-color: #E8E2D8;
+}
+
+
+body {
+  margin-top: 0px;
+}
+
+.navbar-add {
+  background-color: #315275;
+}
+
+.my-navbar {
+  color: white;
+}
+
+a.my-navbar:hover {
+  color: #EA3614;
+  background-color: white;
+}
+
+a.my-navbar.active {
+  color: #EA3614;
+}
+
+a.my-nav-icon {
+  color: #EA3614;
+}
+
+a.my-nav-icon:hover {
+  color: white;
+}
+
+.my-pag-btn {
+  color: white;
+  background-color: #3EC46D;
+  border-color: #3EC46D;
+}
+
+a.my-pag-btn:hover {
+  color: white;
+  background-color: #14A76C;
+  border-color: #f03a5f;
+}
+
+.my-pag-link {
+  color: white;
+  border-color: #3EC46D;
+}
+
+a.my-pag-link:hover {
+  color: #3EC46D;
+  border-color: #f03a5f;
+}
+
+.my-pag-active {
+  color: white;
+  background-color: #3EC46D;
+  border-color: #3EC46D;
+}
+
+a.my-user-btn {
+  color: #3EC46D;
+}
+
+a.my-user-btn.active {
+  background-color: #3EC46D;
+  color: white;
+}
+
+a.my-user-btn-remove {
+  color: #f03a5f;
+}
+
+.my-rating-btn {
+  margin: 5px;
+}
+
+label.my-checkbox:hover, label.my-checkbox:active {
+  color:  #3EC46D;
+}
+
+.embla {
+  overflow: hidden;
+}
+.embla__container {
+  display: flex;
+}
+.embla__slide {
+  position: relative;
+  min-width: 100%;
+}
+
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.mcontent {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+
+.title-font {
+  font-family: 'Fredoka One', cursive;
+  color: white;
+}
+
+.logo {
+  font-family: 'Fredoka One', cursive;
+  font-size: 2rem;
+  color: white;
+}
+
+.l-icon {
+  font-size: 2.5rem;
+  color: #F48514;
+}
+
+.logo-nav {
+  padding: 5px;
+}
+
+.my-subtitle {
+  margin-top: 5px;
+  padding: 3px;
+}
+
+hr.line1 {
+  border: 1px solid #f03a5f;
+  margin: 5px -10px;
+}
+
+hr.line2 {
+  border: 1px solid #14A76C;
+  margin: 5px -10px;
+}
+
+.danger-text {
+  color: #f03a5f;
+}
+
+.succes-text {
+  color: #14A76C;
+}
+
+/*
+.iconify {
+  color: #008E82;
+  width: 40px;
+  height: 40px;
+}
+*/
